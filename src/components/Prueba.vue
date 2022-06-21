@@ -1,6 +1,6 @@
 <template lang="html">
 
-  <section class="src-components-prueba">
+  <section>
     <h1>src-components-prueba Component</h1>
   </section>
 
